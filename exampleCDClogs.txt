@@ -1,0 +1,8 @@
+{"I":"\u0001","NAME":{"string":"Bob"},"table":{"string":"ORCLCDB.C##MYUSER.EMP"},"scn":{"string":"2564711"},"op_type":{"string":"R"},"op_ts":null,"current_ts":{"string":"1622112021514"},"row_id":null,"username":null}
+{"I":"\u0002","NAME":{"string":"Jane"},"table":{"string":"ORCLCDB.C##MYUSER.EMP"},"scn":{"string":"2564711"},"op_type":{"string":"R"},"op_ts":null,"current_ts":{"string":"1622112021526"},"row_id":null,"username":null}
+{"I":"\u0003","NAME":{"string":"Mary"},"table":{"string":"ORCLCDB.C##MYUSER.EMP"},"scn":{"string":"2564711"},"op_type":{"string":"R"},"op_ts":null,"current_ts":{"string":"1622112021526"},"row_id":null,"username":null}
+{"I":"\u0004","NAME":{"string":"Alice"},"table":{"string":"ORCLCDB.C##MYUSER.EMP"},"scn":{"string":"2564711"},"op_type":{"string":"R"},"op_ts":null,"current_ts":{"string":"1622112021527"},"row_id":null,"username":null}
+{"I":"\u0005","NAME":{"string":"Bob"},"table":{"string":"ORCLCDB.C##MYUSER.EMP"},"scn":{"string":"2564711"},"op_type":{"string":"R"},"op_ts":null,"current_ts":{"string":"1622112021527"},"row_id":null,"username":null}
+{"I":"\u0006","NAME":{"string":"Jane"},"table":{"string":"ORCLCDB.C##MYUSER.EMP"},"scn":{"string":"2564711"},"op_type":{"string":"R"},"op_ts":null,"current_ts":{"string":"1622112021527"},"row_id":null,"username":null}
+{"I":"\u0007","NAME":{"string":"Mary"},"table":{"string":"ORCLCDB.C##MYUSER.EMP"},"scn":{"string":"2564711"},"op_type":{"string":"R"},"op_ts":null,"current_ts":{"string":"1622112021527"},"row_id":null,"username":null}
+{"I":"\b","NAME":{"string":"Alice"},"table":{"string":"ORCLCDB.C##MYUSER.EMP"},"scn":{"string":"2564711"},"op_type":{"string":"R"},"op_ts":null,"current_ts":{"string":"1622112021528"},"row_id":null,"username":null}
