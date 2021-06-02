@@ -1,4 +1,4 @@
-/scripts/go_sqlplus.sh /scripts/oracle_setup_docker
+/scripts/go_sqlplus.sh /scripts/oracle_setup_docker.sql
 
 
 curl -s -X POST -H 'Content-Type: application/json' --data @SimpleOracleCDC.json http://localhost:8083/connectors
